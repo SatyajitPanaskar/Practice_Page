@@ -1,0 +1,8 @@
+ 
+1> what is dom ?
+2> 4 pillars of dom
+  --> 1. Selection of an Element
+  -->2. Changing html
+  -->3. Changing css
+  -->4. Events  Listner
+ 

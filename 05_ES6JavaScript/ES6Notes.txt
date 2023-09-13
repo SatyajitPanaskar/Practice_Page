@@ -1,0 +1,16 @@
+
+---------->  ES6 feature javascript <-------------
+1. let and const 
+2. arrow function
+3. template literals
+4. default parameters
+5. rest and spread
+6. destructuring
+7. classes 
+8. modules
+10. promises
+11. async await
+12 . try cath
+
+
+1.-----> let and const 

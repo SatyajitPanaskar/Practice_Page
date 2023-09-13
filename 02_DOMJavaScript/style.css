@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html, body{
+    width: 100%;
+    height: 100%;   
+}
+h1{
+    background-color: red;
+    color: white;
+}
+#blub{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 4px solid black;
+   
+}
+button{
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 40px 100px;
+    background-color: aqua;
+    border: 1px solid red;
+}
+
+h2{
+    font-size: 70px;
+    font-weight: 800;
+}
