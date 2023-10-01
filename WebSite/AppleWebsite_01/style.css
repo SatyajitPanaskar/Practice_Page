@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    
+}
+#navbarSupportedContent ul li a:hover{
+    color: red;
+
+}
+.text_01{
+    height: 650px;
+   width: 100%;
+    font-size: 13px;
+    text-align: center;
+    color: white;
+    background-position: center;
+    overflow: hidden;
+    background-image: url("https://www.apple.com/v/iphone-15-pro/a/images/meta/iphone-15-pro_overview__f8jz7aagka2q_og.png?202309150520");
+}
+.text_01 h2{
+    font-weight: 900;
+    padding-top: 30px;
+}
+.text_01 a{
+    text-decoration: none;
+    margin-left: 10px;
+    color: blue;
+}
+.footer{
+    
+    background-color: lightblue;
+    height: 30px;
+    font-size: 15px;
+}
+.footer p{
+   margin-left: 30px;
+}
